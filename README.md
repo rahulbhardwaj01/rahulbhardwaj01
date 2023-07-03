@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahulbhardwaj101031@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TCO7tUtYl0Ee2m8HZCAlIcJp5RbPl8Ow/view?usp=sharing](https://drive.google.com/file/d/1TCO7tUtYl0Ee2m8HZCAlIcJp5RbPl8Ow/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1TCO7tUtYl0Ee2m8HZCAlIcJp5RbPl8Ow/view?usp=sharing](https://drive.google.com/file/d/1TCO7tUtYl0Ee2m8HZCAlIcJp5RbPl8Ow/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
