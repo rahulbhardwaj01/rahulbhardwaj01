@@ -3,24 +3,20 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Blog website**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **react,Mongo db**
+- 🌱 I’m currently learning **Aws and kubernetes**
 
-- 👯 I’m looking to collaborate on **Mern projects**
+- 👯 I’m looking to collaborate on **saas**
 
-- 💬 Ask me about **express js,MERN,cyber security**
+- 💬 Ask me about **Next js,React,express js,MERN,cyber security**
 
 - 📫 How to reach me **rahulbhardwaj101031@gmail.com**
-
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1TCO7tUtYl0Ee2m8HZCAlIcJp5RbPl8Ow/view?usp=sharing](https://drive.google.com/file/d/1TCO7tUtYl0Ee2m8HZCAlIcJp5RbPl8Ow/view?usp=sharing)
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me-></h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-bhardwaj-408290262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-bhardwaj-408290262" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranger_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranger_12" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/ranger_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranger_12" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
